@@ -1,3 +1,5 @@
+# ProtonMail IMAP/SMTP Bridge Docker Container with removed restriction for localhost - allowing other containers to connect to it.
+
 # ProtonMail IMAP/SMTP Bridge Docker Container
 
 ![version badge](https://img.shields.io/docker/v/shenxn/protonmail-bridge)
